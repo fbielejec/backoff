@@ -1,4 +1,4 @@
-use instant::Instant;
+use web_time::Instant;
 use std::marker::PhantomData;
 use std::time::Duration;
 
